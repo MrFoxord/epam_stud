@@ -2,3 +2,7 @@ some song
 realy
 this line from another dev
 this to
+some new lines
+to test git gui
+glory to Ukraine
+glory to heroes
