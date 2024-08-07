@@ -4,8 +4,9 @@ this line from another dev
 this to
 some new lines
 to test git gui
-glory to Ukraine
-glory to heroes
 
 some content
 and here
+
+find the action
+-------------------------------
